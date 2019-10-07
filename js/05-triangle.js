@@ -11,6 +11,4 @@ for (x = 1; x <= 7; x++) {
         }
     }
     console.log(hash);
-    hash = null;
-
 }
